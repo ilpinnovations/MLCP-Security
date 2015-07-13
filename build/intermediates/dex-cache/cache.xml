@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stealth/.gradle/caches/modules-2/files-2.1/com.github.kevinsawicki/http-request/5.6/168305b7a983142b6311a005f0ad96d3b34d92d/http-request-5.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0168305b7a983142b6311a005f0ad96d3b34d92d">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/http-request-5.6-9753897889b840fbaef2c26b22e7cacfbbbf85c0.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-7cace846a8db943d3ef5d8ad942e716a6c622ecc.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-e45ce8cda5d5fb054fce73b571988b761fde0742.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-99af4e927758a40a4a94d1927118ff01a18708ff.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-531c0619c58f074ceb154b6e22dd4f26b54b6d50.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-ff4ab195561c79ac29e481cedb7d90fba0b2d6fc.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2e646fdcc7555153254198eaf0ebb050188d24c1.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-41f9a6ae8eed1e8e7301018a4f35bf5f5f6da8e4.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-0ef1eb29cae2a19bbc4b016b7069634e52973cbd.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6b69ed6577c66616a4eb8ba1cec55be34b8d4dbe.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-78daacc2cc76adc30bee9cf5f7d239124f9ea7ba.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-2230cde52a45e057b5d5ae084af4dfe57ad1b8b2.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-becbbc7eddec015d99b661808deac71abf5f68a8.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-024b066018c4c3be1b2e09c9ba4cb7294e0bfc28.jar" />
+    </item>
+    <item
+        jar="/home/stealth/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-857af9d213ead11de6bc95cccf8120cfd7f37c41.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d1ef9343d0e84e43ba77b967d8e9472c498c20b7.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6a92aacfc3fbb8b9e97aed47bf6c47c30b63bbf8.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-1b859626a1cf83d16f378286c8ead3221a08384e.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-c17fae8b7cc24a398451789bdd90f895b68683f9.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-e36d942deb3629786a41f8949347c3a72403c0dc.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-610beca0e48bf7bad5cae3321e5c45a120aa1808.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-98af52c7e41d769a8b5220e7619cf332430f5942.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-9d5a64040c420a3c1d4b5cf3eac6f63f3b68693f.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-b51ee36e65d903bc49f0af644c30c819fd295da0.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-becb2e16d17b1430d7346ef6548dd9f97fd9322e.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-141ca1bf54a054121b4483708a31963f8b96551b.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6b023da0ae9d031bb7b40732aad5823595b1aaab.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"  >
+
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_3"
+        android:title="@string/search"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="android.widget.SearchView"/>
+
+
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh"
+        android:title="@string/refresh"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+
+    <item android:id="@+id/search_head"
+        android:title="@string/search_by_title" >
+
+        <menu>
+            <item android:id="@+id/search_slot"
+                android:title="@string/search_slot" />
+
+            <item android:id="@+id/search_reg_num"
+                android:title="@string/search_reg_num" />
+        </menu>
+
+    </item>
+
+
+
+</menu>

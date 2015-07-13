@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MLCP-COCHIN</string>
+
+    <string name="title_section1">View Slots</string>
+    <string name="title_section2">Live Allocation</string>
+    <string name="title_section3">Reserved Slots</string>
+    <string name="title_section4">Confirmed Slots</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">SEARCH</string>
+    <string name="refresh">REFRESH</string>
+    <string name="search_hint">Enter something...</string>
+    <string name="select_all">SELECT ALL</string>
+    <string name="search_by_title">SEARCH BY</string>
+    <string name="search_slot">SLOT</string>
+    <string name="search_reg_num">REG NUM</string>
+    <string name="txt_new_slot_num">Vehicle Number</string>
+
+    <string name="empid_hint">Employee ID</string>
+    <string name="veh_num_hint">Vehicle Num</string>
+    <string name="confirm_slot_book">Book Now</string>
+
+    <string name="confirm">CONFIRM</string>
+    <string name="slot">SLOT</string>
+    <string name="reg_num">REG NO</string>
+
+</resources>
